@@ -1,0 +1,42 @@
+Northwind Analytics — Employee Handbook (sample document)
+
+This is a fictional handbook included so you can try the RAG pipeline
+immediately. Copy it into the data/ folder or upload it in the app.
+
+1. Working hours
+Core working hours are 10:00 to 16:00 local time, Monday to Friday. Outside
+core hours employees may arrange their schedule freely, provided they work
+40 hours per week. Meetings should not be scheduled on Friday afternoons.
+
+2. Remote work
+Employees may work remotely up to three days per week. Fully remote
+arrangements require written approval from a department head and are
+reviewed every six months. The company reimburses up to 400 EUR once per
+employee for home-office equipment.
+
+3. Annual leave
+Full-time employees receive 28 days of paid annual leave per calendar year.
+Up to 5 unused days can be carried over into the next year and must be used
+by 31 March. Leave requests of more than five consecutive days must be
+submitted at least four weeks in advance.
+
+4. Sick leave
+Employees should notify their manager before 09:30 on the first day of
+illness. A medical certificate is required for absences longer than three
+consecutive working days.
+
+5. Expenses
+Business expenses must be submitted through the expense portal within 30
+days of purchase, together with a receipt. Expenses above 500 EUR need
+manager pre-approval. Reimbursements are paid with the next monthly payroll.
+
+6. Information security
+All company laptops must use full-disk encryption and automatic screen lock
+after five minutes. Passwords must be at least 14 characters and stored in
+the company password manager. Suspected security incidents must be reported
+to security@northwind.example within one hour of discovery.
+
+7. Learning and development
+Each employee has an annual learning budget of 1,500 EUR for courses,
+conferences and books. Unused budget does not carry over. Two working days
+per quarter may be used as dedicated learning days.
